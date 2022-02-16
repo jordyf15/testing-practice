@@ -11,7 +11,7 @@ Write tests for the following, and then make the tests pass!
 - Don’t forget to test punctuation!
 5. An analyzeArray function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
 ## Live Demo
-https://jordyf15.github.io/testing-practice/
+https://replit.com/@jordyf15/testing-practice#.replit
 ## Installation and Usage
 Input the following command one-by-one to the terminal.
 ```
